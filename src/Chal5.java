@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Chal2 {
+public class Chal5 {
     public static void main(String[] args) {
         int[] tableau = new int[7];
         Scanner reader = new Scanner(System.in);
